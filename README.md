@@ -1,0 +1,1 @@
+`stack ghci` fails, but if we edit `hs-source-dirs` to `.` instead of `./.`, it succeeds. This shouldn't make a difference, should it?
