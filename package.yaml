@@ -1,0 +1,11 @@
+name: interplay
+dependencies:
+- base
+
+library:
+  source-dirs: src
+
+executables:
+  interplay:
+    main: Main.hs
+    source-dirs: app
